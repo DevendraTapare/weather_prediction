@@ -3,8 +3,8 @@
 This project focuses on building a machine learning model to predict whether it will rain tomorrow (RainTomorrow) based on weather conditions such as temperature, humidity, wind speed, and other meteorological factors. The dataset includes historical weather data, and the target is to classify whether it will rain (Yes) or not (No) on the next day.
 
 ## Project Workflow
-Problem Statement: Defining the goal of predicting rainfall using meteorological data.
-Data Gathering: Importing and processing historical weather data.
+1. Problem Statement: Defining the goal of predicting rainfall using meteorological data.
+2. Data Gathering: Importing and processing historical weather data.
 Exploratory Data Analysis (EDA): Analyzing the dataset to uncover trends, relationships, and patterns.
 Feature Engineering: Preparing the data for model training by creating and transforming features.
 Model Development: Implementing and evaluating classification algorithms.
